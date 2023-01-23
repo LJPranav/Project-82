@@ -1,0 +1,13 @@
+h1{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+body{
+    background-color: cyan;
+}
